@@ -40,7 +40,7 @@
 <ID> <TEXT> <ENTITY> <LABEL>
 ```
 
-![幻灯片8](.\img\幻灯片8.JPG)
+![幻灯片8](./img/幻灯片8.JPG)
 
 
 
