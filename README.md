@@ -10,7 +10,7 @@
 
 我们将从以下六点进行介绍![幻灯片3](./img/幻灯片3.JPG)
 
-首先是任务简介与数据格式，具体的数据下载详见 [BDCI2019金融负面信息判定](https://www.datafountain.cn/competitions/353/datasets)，也可以参考```data```文件夹 
+首先是任务简介与数据格式，具体的数据下载详见 [BDCI2019金融负面信息判定](https://www.datafountain.cn/competitions/353/datasets)，也可以参考```data```文件夹里面的数据
 
 
 
